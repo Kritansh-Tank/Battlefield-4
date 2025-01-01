@@ -630,10 +630,10 @@ const MenuMultiplayerServerBrow = () => {
                     </Box>
                   </Box>
                 </Box>
-                <Box className="flex flex-col items-start justify-end pt-[2rem] px-[0rem] pb-[0rem] pr-[4rem]">
+                <Box className="flex flex-col items-start justify-end pt-[2rem] px-[0rem] pb-[0rem] pr-[4rem] cursor-pointer ">
                   <Link to="/menu multiplayer/server browser/server info/show more">
                     <img
-                      className="w-[1.5rem] h-[1.5rem] relative z-[2] cursor-pointer transform -rotate-90"
+                      className="w-[1.5rem] h-[1.5rem] relative z-[2] transform -rotate-90"
                       loading="lazy"
                       alt=""
                       src="/back.svg"

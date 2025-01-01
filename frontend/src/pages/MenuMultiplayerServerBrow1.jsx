@@ -16,7 +16,7 @@ const MenuMultiplayerServerBrow1 = () => {
         <header className="w-[38.263rem] flex flex-row items-start justify-center py-[0rem] px-[1.25rem] box-border max-w-full text-left text-[1.5rem] text-gray-300 font-rajdhani">
           <Box className="flex flex-col items-start justify-start max-w-full">
             <Box className="flex flex-row items-end justify-start gap-[1.612rem] max-w-full">
-              <Box className="flex flex-col items-start justify-end pt-[0rem] px-[0rem] pb-[0.406rem]">
+              <Box className="flex flex-col items-start justify-end pt-[0rem] px-[0rem] pb-[0rem]">
                 <Link to="/menu multiplayer/server browser/server info">
                   <img
                     className="w-[0.45rem] h-[0.981rem] relative z-[2] cursor-pointer"
@@ -85,7 +85,7 @@ const MenuMultiplayerServerBrow1 = () => {
                 alt=""
                 src="/side-menu__game_1.svg"
               />
-              <Box className="absolute h-[50px] w-[50px] top-[33%] right-[94.84%] bottom-[0%] left-[-3%] border-orange border-r-[3px] border-solid box-border z-[2]" />
+              <Box className="absolute h-[50px] w-[50px] top-[34%] right-[94.84%] bottom-[0%] left-[-3%] border-orange border-r-[3px] border-solid box-border z-[2]" />
               <img
                 className="w-[2.5rem] h-[3rem] relative object-cover z-[2] cursor-pointer"
                 alt=""
