@@ -1,13 +1,7 @@
 import { Box, Typography, Button } from "@mui/material";
 import Invite from "../components/Invite";
 import { useEffect, useState } from "react";
-import { createClient } from "@supabase/supabase-js";
 import { Link } from "react-router-dom";
-
-const supabaseUrl = "https://rvaefaqthnccqopuikmu.supabase.co";
-const supabaseKey =
-  "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InJ2YWVmYXF0aG5jY3FvcHVpa211Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzUyMTA5NDYsImV4cCI6MjA1MDc4Njk0Nn0.id5QHaOuMGg1N1ipI6dUg4ml7ZFlUcVkbwqHmmwSVd0";
-const supabase = createClient(supabaseUrl, supabaseKey);
 
 const MenuMultiplayerServerBrow = () => {
   const [battlefield, setBattlefield] = useState({
