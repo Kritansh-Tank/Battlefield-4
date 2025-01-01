@@ -13,7 +13,9 @@ const MenuMultiplayerServerBrow = () => {
   useEffect(() => {
     const fetchBattlefield = async () => {
       try {
-        const response = await fetch("https://my-node-backend-4wu1.onrender.com/api/battlefield");
+        const response = await fetch(
+          "https://my-node-backend-4wu1.onrender.com/api/battlefield"
+        );
         const data = await response.json();
         setBattlefield(data);
       } catch (err) {
@@ -445,7 +447,7 @@ const MenuMultiplayerServerBrow = () => {
                                 {key}
                               </Box>
                               <Box className="relative tracking-[0.04em] uppercase font-medium text-right inline-block min-w-[1.313rem] z-[2]">
-                                {value ? "on" : "off"}
+                                {value === "on" ? "on" : "off"}
                               </Box>
                             </Box>
                           </Box>
