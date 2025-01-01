@@ -13,7 +13,7 @@ const MenuMultiplayerServerBrow = () => {
   useEffect(() => {
     const fetchBattlefield = async () => {
       try {
-        const response = await fetch("http://localhost:3000/api/battlefield");
+        const response = await fetch("https://my-node-backend-4wu1.onrender.com/api/battlefield");
         const data = await response.json();
         setBattlefield(data);
       } catch (err) {
@@ -36,7 +36,7 @@ const MenuMultiplayerServerBrow = () => {
     const fetchSettings = async () => {
       try {
         const response = await fetch(
-          "http://localhost:3000/api/battlefield-settings"
+          "https://my-node-backend-4wu1.onrender.com/api/battlefield-settings"
         );
         const data = await response.json();
         setSettings(data);
@@ -67,7 +67,7 @@ const MenuMultiplayerServerBrow = () => {
     const fetchAdvanced = async () => {
       try {
         const response = await fetch(
-          "http://localhost:3000/api/battlefield-advanced"
+          "https://my-node-backend-4wu1.onrender.com/api/battlefield-advanced"
         );
         const data = await response.json();
         setAdvanced(data);
@@ -94,7 +94,7 @@ const MenuMultiplayerServerBrow = () => {
     const fetchRules = async () => {
       try {
         const response = await fetch(
-          "http://localhost:3000/api/battlefield-rules"
+          "https://my-node-backend-4wu1.onrender.com/api/battlefield-rules"
         );
         const data = await response.json();
         setRules(data);
