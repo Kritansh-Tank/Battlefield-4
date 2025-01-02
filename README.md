@@ -64,3 +64,10 @@ https://battlefield4.netlify.app/menu multiplayer/server browser/server info
         1. node server.js
     5. Deploy the backend to Render:
         1. Link your GitHub repository to Render and deploy.
+
+## Images
+
+1. Screenshot 1: Server Info Page
+![Server Info Screenshot](https://drive.google.com/uc?id=1ZXlAPYntU8yRo8YvxI-hAFny9bsgY8wj)
+
+2. Screenshot 2: Show More Page
