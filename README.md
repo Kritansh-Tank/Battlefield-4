@@ -24,10 +24,10 @@ https://battlefield4.netlify.app/menu multiplayer/server browser/server info
 ## Technologies Used 
 
 1. Frontend:
-    A. React.js: Component-based UI development.
-    B. Tailwind CSS: Utility-first CSS framework for styling.
-    C. Netlify: Hosting platform for the frontend.
+    1. React.js: Component-based UI development.
+    2. Tailwind CSS: Utility-first CSS framework for styling.
+    3. Netlify: Hosting platform for the frontend.
 2. Backend:
-    A. Node.js + Express.js: REST API development.
-    B. Supabase: Backend-as-a-Service (BaaS) for data management.
-    C. Render: Hosting platform for the backend.
+    1. Node.js + Express.js: REST API development.
+    2. Supabase: Backend-as-a-Service (BaaS) for data management.
+    3. Render: Hosting platform for the backend.
