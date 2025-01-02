@@ -4,7 +4,8 @@ This project replicates the Battlefield 4 Server Info Page using modern web tech
 
 ## Live Demo
 
-https://battlefield4.netlify.app/menu multiplayer/server browser/server info
+[Visit the Live Demo](https://battlefield4.netlify.app/menu multiplayer/server browser/server info)
+
 
 ## Table of Contents
 
@@ -67,10 +68,10 @@ https://battlefield4.netlify.app/menu multiplayer/server browser/server info
 
 ## Images
 
-1. Screenshot 1: Server Info Page
+Screenshot 1: Server Info Page
 
 ![Server Info Screenshot](https://drive.google.com/uc?id=1ZXlAPYntU8yRo8YvxI-hAFny9bsgY8wj)
 
-2. Screenshot 2: Show More Page
+Screenshot 2: Show More Page
 
 ![Show More Screenshot](https://drive.google.com/uc?id=1dALNPVpxq7u0gxwhFr0lTu_vTtm5ls94)
