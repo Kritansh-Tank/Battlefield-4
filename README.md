@@ -42,25 +42,25 @@ https://battlefield4.netlify.app/menu multiplayer/server browser/server info
 ## Setup Instructions
 
 1. Prerequisites
-    A. Node.js and npm installed.
-    B. A Supabase account and project set up.
+    1. Node.js and npm installed.
+    2. A Supabase account and project set up.
 2. Frontend Setup
-    A. Navigate to the frontend folder.
-    B. Install dependencies:
-        npm install
-    C. Start the development server:
-        npm start
-    D. Deploy the frontend to Netlify:
-        Link your GitHub repository to Netlify and deploy.
+    1. Navigate to the frontend folder.
+    2. Install dependencies:
+        1. npm install
+    3. Start the development server:
+        1. npm start
+    4. Deploy the frontend to Netlify:
+        1. Link your GitHub repository to Netlify and deploy.
 3. Backend Setup
-    A. Navigate to the backend folder.
-    B. Install dependencies:
-        npm install
-    C. Configure environment variables for Supabase:
-        Create a .env file and add your Supabase credentials:
-            SUPABASE_URL=<your_supabase_url>
-            SUPABASE_KEY=<your_supabase_key>
-    D. Start the backend server:
-        node server.js
-    E. Deploy the backend to Render:
-        Link your GitHub repository to Render and deploy.
+    1. Navigate to the backend folder.
+    2. Install dependencies:
+        1. npm install
+    3. Configure environment variables for Supabase:
+        1. Create a .env file and add your Supabase credentials:
+            1. SUPABASE_URL=<your_supabase_url>
+            2. SUPABASE_KEY=<your_supabase_key>
+    4. Start the backend server:
+        1. node server.js
+    5. Deploy the backend to Render:
+        1. Link your GitHub repository to Render and deploy.
