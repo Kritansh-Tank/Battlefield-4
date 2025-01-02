@@ -55,7 +55,8 @@ This project replicates the Battlefield 4 Server Info Page using modern web tech
 3. Backend Setup
     1. Navigate to the backend folder.
     2. Install dependencies:
-        1. npm install
+           ```bash
+            npm install
     3. Configure environment variables for Supabase:
         1. Create a .env file and add your Supabase credentials:
             1. SUPABASE_URL=<your_supabase_url>
