@@ -47,22 +47,21 @@ This project replicates the Battlefield 4 Server Info Page using modern web tech
 2. Frontend Setup
     1. Navigate to the frontend folder.
     2. Install dependencies:
-        1. npm install
+        1. Run `npm install` to install dependencies.
     3. Start the development server:
-        1. npm start
+        1. Run `npm start` to start the development server.
     4. Deploy the frontend to Netlify:
         1. Link your GitHub repository to Netlify and deploy.
 3. Backend Setup
     1. Navigate to the backend folder.
     2. Install dependencies:
-           ```bash
-            npm install
+           1. Run `npm install` to install dependencies.
     3. Configure environment variables for Supabase:
         1. Create a .env file and add your Supabase credentials:
             1. SUPABASE_URL=<your_supabase_url>
             2. SUPABASE_KEY=<your_supabase_key>
     4. Start the backend server:
-        1. node server.js
+        1. Run `node server.js` to start the backend server.
     5. Deploy the backend to Render:
         1. Link your GitHub repository to Render and deploy.
 
