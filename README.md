@@ -4,8 +4,7 @@ This project replicates the Battlefield 4 Server Info Page using modern web tech
 
 ## Live Demo
 
-[Visit the Live Demo](https://battlefield4.netlify.app/menu multiplayer/server browser/server info)
-
+[Visit the Live Demo](https://battlefield4.netlify.app/menu%20multiplayer/server%20browser/server%20info)
 
 ## Table of Contents
 
