@@ -1,4 +1,4 @@
-# Battlefield 4 Server Info Page
+# Battlefield 4 (Server Info Page)
 
 This project replicates the Battlefield 4 Server Info Page using modern web technologies. It includes a React.js frontend styled with Tailwind CSS and a Node.js backend, with data managed via Supabase. The application is deployed on Netlify (frontend) and Render (backend).
 
